@@ -11,7 +11,7 @@ It includes a rating feature to display user ratings and visualizes movie detail
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Sohibjon-0703/movie_rec_streamlit.git
 cd movie_recommendation
 ```
 
