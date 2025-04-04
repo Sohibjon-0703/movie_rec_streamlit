@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Sohibjon-0703/movie_rec_streamlit.git
-cd movie_recommendation
+cd movie_rec_streamlit
 ```
 
 ### 2. Create a Virtual Environment
